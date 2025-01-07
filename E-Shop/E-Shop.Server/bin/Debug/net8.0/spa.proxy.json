@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Eyass\\Desktop\\sobee\\sam_gov_webAPI\\E-Shop\\E-Shop.Server\\..\\e-shop.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

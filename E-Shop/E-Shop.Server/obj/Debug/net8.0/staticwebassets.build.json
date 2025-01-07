@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "GmIXOACcq1ubIsLdaShVqzSn1Rr2/r+0EarIOOMF+Go=",
+  "Source": "E-Shop.Server",
+  "BasePath": "_content/E-Shop.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Eyass\\Desktop\\sobee\\sam_gov_webAPI\\E-Shop\\e-shop.client\\e-shop.client.esproj",
+      "Version": 2,
+      "Source": "e-shop.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
